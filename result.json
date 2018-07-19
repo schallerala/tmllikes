@@ -1,1118 +1,891 @@
 {
-    "27": [
-        {
-            "id": 1796,
-            "start": "2018-07-27T21:50:00+02:00",
-            "end": "2018-07-27T22:50:00+02:00",
-            "artist": "Tiësto",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1275,
-            "start": "2018-07-27T22:50:00+02:00",
-            "end": "2018-07-27T23:50:00+02:00",
-            "artist": "Axwell /\\ Ingrosso",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1723,
-            "start": "2018-07-27T23:50:00+02:00",
-            "end": "2018-07-28T00:50:00+02:00",
-            "artist": "Hardwell",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1853,
-            "start": "2018-07-27T18:30:00+02:00",
-            "end": "2018-07-27T19:30:00+02:00",
-            "artist": "Sam Feldt (Live)",
-            "likes": 3,
-            "stage": {
-                "name": "Sexy By Nature- Garden of Madness"
-            }
-        },
-        {
-            "id": 1272,
-            "start": "2018-07-27T18:30:00+02:00",
-            "end": "2018-07-27T19:30:00+02:00",
-            "artist": "Cosmic Gate",
-            "likes": 3,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1708,
-            "start": "2018-07-27T19:30:00+02:00",
-            "end": "2018-07-27T22:00:00+02:00",
-            "artist": "Armin van Buuren",
-            "likes": 3,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1782,
-            "start": "2018-07-27T20:50:00+02:00",
-            "end": "2018-07-27T21:50:00+02:00",
-            "artist": "W&W",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1816,
-            "start": "2018-07-27T21:30:00+02:00",
-            "end": "2018-07-27T22:30:00+02:00",
-            "artist": "Timmy Trumpet",
-            "likes": 3,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1784,
-            "start": "2018-07-27T22:00:00+02:00",
-            "end": "2018-07-27T23:00:00+02:00",
-            "artist": "Andrew Rayel",
-            "likes": 3,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1777,
-            "start": "2018-07-27T22:00:00+02:00",
-            "end": "2018-07-27T23:30:00+02:00",
-            "artist": "Oliver Heldens",
-            "likes": 3,
-            "stage": {
-                "name": "Heldeep- Arch"
-            }
-        },
-        {
-            "id": 1747,
-            "start": "2018-07-27T12:00:00+02:00",
-            "end": "2018-07-27T14:50:00+02:00",
-            "artist": "Paul Kalkbrenner",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1747,
-            "start": "2018-07-27T12:00:00+02:00",
-            "end": "2018-07-27T14:50:00+02:00",
-            "artist": "Paul Kalkbrenner",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2199,
-            "start": "2018-07-27T14:30:00+02:00",
-            "end": "2018-07-27T15:30:00+02:00",
-            "artist": "Breathe Carolina",
-            "likes": 2,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1938,
-            "start": "2018-07-27T15:30:00+02:00",
-            "end": "2018-07-27T16:30:00+02:00",
-            "artist": "Dannic",
-            "likes": 2,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1829,
-            "start": "2018-07-27T15:50:00+02:00",
-            "end": "2018-07-27T16:50:00+02:00",
-            "artist": "Jonas Blue",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2145,
-            "start": "2018-07-27T16:30:00+02:00",
-            "end": "2018-07-27T17:30:00+02:00",
-            "artist": "David Gravell",
-            "likes": 2,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1855,
-            "start": "2018-07-27T16:50:00+02:00",
-            "end": "2018-07-27T17:50:00+02:00",
-            "artist": "Slushii",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1904,
-            "start": "2018-07-27T17:30:00+02:00",
-            "end": "2018-07-27T18:30:00+02:00",
-            "artist": "Laidback Luke",
-            "likes": 2,
-            "stage": {
-                "name": "Sexy By Nature- Garden of Madness"
-            }
-        },
-        {
-            "id": 1626,
-            "start": "2018-07-27T19:30:00+02:00",
-            "end": "2018-07-27T20:30:00+02:00",
-            "artist": "Kura",
-            "likes": 2,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1780,
-            "start": "2018-07-27T20:30:00+02:00",
-            "end": "2018-07-27T21:30:00+02:00",
-            "artist": "Yves V",
-            "likes": 2,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1803,
-            "start": "2018-07-27T21:30:00+02:00",
-            "end": "2018-07-27T22:30:00+02:00",
-            "artist": "Fedde Le Grand",
-            "likes": 2,
-            "stage": {
-                "name": "Sexy By Nature- Garden of Madness"
-            }
-        },
-        {
-            "id": 1894,
-            "start": "2018-07-27T22:30:00+02:00",
-            "end": "2018-07-27T23:45:00+02:00",
-            "artist": "Sander van Doorn",
-            "likes": 2,
-            "stage": {
-                "name": "Sexy By Nature- Garden of Madness"
-            }
-        },
-        {
-            "id": 2148,
-            "start": "2018-07-27T13:00:00+02:00",
-            "end": "2018-07-27T14:30:00+02:00",
-            "artist": "Estiva",
-            "likes": 1,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 2200,
-            "start": "2018-07-27T13:30:00+02:00",
-            "end": "2018-07-27T14:30:00+02:00",
-            "artist": "BLR",
-            "likes": 1,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 2160,
-            "start": "2018-07-27T13:30:00+02:00",
-            "end": "2018-07-27T14:30:00+02:00",
-            "artist": "Codeko",
-            "likes": 1,
-            "stage": {
-                "name": "Netsky and friends- Rose Garden"
-            }
-        },
-        {
-            "id": 2146,
-            "start": "2018-07-27T15:30:00+02:00",
-            "end": "2018-07-27T16:30:00+02:00",
-            "artist": "Super 8 & Tab",
-            "likes": 1,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1940,
-            "start": "2018-07-27T16:30:00+02:00",
-            "end": "2018-07-27T17:30:00+02:00",
-            "artist": "Florian Picasso",
-            "likes": 1,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 2207,
-            "start": "2018-07-27T16:30:00+02:00",
-            "end": "2018-07-27T17:30:00+02:00",
-            "artist": "Cedric Gervais",
-            "likes": 1,
-            "stage": {
-                "name": "Sexy By Nature- Garden of Madness"
-            }
-        },
-        {
-            "id": 2186,
-            "start": "2018-07-27T17:00:00+02:00",
-            "end": "2018-07-27T18:30:00+02:00",
-            "artist": "Chocolate Puma",
-            "likes": 1,
-            "stage": {
-                "name": "Heldeep- Arch"
-            }
-        },
-        {
-            "id": 1874,
-            "start": "2018-07-27T17:00:00+02:00",
-            "end": "2018-07-27T19:00:00+02:00",
-            "artist": "Dubfire",
-            "likes": 1,
-            "stage": {
-                "name": "Pryda- Atmosphere"
-            }
-        },
-        {
-            "id": 2165,
-            "start": "2018-07-27T17:30:00+02:00",
-            "end": "2018-07-27T19:00:00+02:00",
-            "artist": "Ruthless",
-            "likes": 1,
-            "stage": {
-                "name": "Pussy Lounge- Amicorum Spectaculum presents: Theatre Formidable"
-            }
-        },
-        {
-            "id": 1712,
-            "start": "2018-07-27T17:30:00+02:00",
-            "end": "2018-07-27T18:30:00+02:00",
-            "artist": "Vini Vici",
-            "likes": 1,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1913,
-            "start": "2018-07-27T18:30:00+02:00",
-            "end": "2018-07-27T19:30:00+02:00",
-            "artist": "ALOK",
-            "likes": 1,
-            "stage": {
-                "name": "V Sessions- Youphoria"
-            }
-        },
-        {
-            "id": 1749,
-            "start": "2018-07-27T19:00:00+02:00",
-            "end": "2018-07-27T20:00:00+02:00",
-            "artist": "San Holo",
-            "likes": 1,
-            "stage": {
-                "name": "Netsky and friends- Rose Garden"
-            }
-        },
-        {
-            "id": 1824,
-            "start": "2018-07-27T19:30:00+02:00",
-            "end": "2018-07-27T21:00:00+02:00",
-            "artist": "Disciples",
-            "likes": 1,
-            "stage": {
-                "name": "Heldeep- Arch"
-            }
-        },
-        {
-            "id": 1923,
-            "start": "2018-07-27T20:00:00+02:00",
-            "end": "2018-07-27T21:30:00+02:00",
-            "artist": "Ookay",
-            "likes": 1,
-            "stage": {
-                "name": "Netsky and friends- Rose Garden"
-            }
-        },
-        {
-            "id": 1727,
-            "start": "2018-07-27T22:30:00+02:00",
-            "end": "2018-07-28T00:00:00+02:00",
-            "artist": "Netsky",
-            "likes": 1,
-            "stage": {
-                "name": "Netsky and friends- Rose Garden"
-            }
-        },
-        {
-            "id": 2178,
-            "start": "2018-07-27T23:00:00+02:00",
-            "end": "2018-07-28T01:00:00+02:00",
-            "artist": "Oscar Mulero",
-            "likes": 1,
-            "stage": {
-                "name": "Onraad- Cage"
-            }
-        },
-        {
-            "id": 1711,
-            "start": "2018-07-27T23:00:00+02:00",
-            "end": "2018-07-28T01:00:00+02:00",
-            "artist": "Eric Prydz",
-            "likes": 1,
-            "stage": {
-                "name": "Pryda- Atmosphere"
-            }
-        },
-        {
-            "id": 1623,
-            "start": "2018-07-27T23:00:00+02:00",
-            "end": "2018-07-28T00:00:00+02:00",
-            "artist": "Ben Nicky",
-            "likes": 1,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1907,
-            "start": "2018-07-27T23:30:00+02:00",
-            "end": "2018-07-28T01:00:00+02:00",
-            "artist": "Duke Dumont",
-            "likes": 1,
-            "stage": {
-                "name": "Heldeep- Arch"
-            }
-        }
-    ],
-    "28": [
-        {
-            "id": 1801,
-            "start": "2018-07-28T19:50:00+02:00",
-            "end": "2018-07-28T20:50:00+02:00",
-            "artist": "Don Diablo",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1647,
-            "start": "2018-07-28T21:10:00+02:00",
-            "end": "2018-07-28T22:25:00+02:00",
-            "artist": "Lost Frequencies",
-            "likes": 4,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1524,
-            "start": "2018-07-28T18:00:00+02:00",
-            "end": "2018-07-28T19:00:00+02:00",
-            "artist": "Zonderling",
-            "likes": 3,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1849,
-            "start": "2018-07-28T18:50:00+02:00",
-            "end": "2018-07-28T19:50:00+02:00",
-            "artist": "Nervo",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2394,
-            "start": "2018-07-28T19:00:00+02:00",
-            "end": "2018-07-28T20:00:00+02:00",
-            "artist": "Sebastian Ingrosso",
-            "likes": 3,
-            "stage": {
-                "name": "Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1866,
-            "start": "2018-07-28T20:50:00+02:00",
-            "end": "2018-07-28T21:50:00+02:00",
-            "artist": "Afrojack",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1755,
-            "start": "2018-07-28T21:50:00+02:00",
-            "end": "2018-07-28T22:50:00+02:00",
-            "artist": "Armin van Buuren",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1320,
-            "start": "2018-07-28T22:50:00+02:00",
-            "end": "2018-07-28T23:50:00+02:00",
-            "artist": "Dimitri Vegas & Like Mike",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2288,
-            "start": "2018-07-28T16:00:00+02:00",
-            "end": "2018-07-28T17:00:00+02:00",
-            "artist": "Throttle",
-            "likes": 2,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 2274,
-            "start": "2018-07-28T17:00:00+02:00",
-            "end": "2018-07-28T18:00:00+02:00",
-            "artist": "Bass Modulators",
-            "likes": 2,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1930,
-            "start": "2018-07-28T18:00:00+02:00",
-            "end": "2018-07-28T19:00:00+02:00",
-            "artist": "Code Black",
-            "likes": 2,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1934,
-            "start": "2018-07-28T19:00:00+02:00",
-            "end": "2018-07-28T20:00:00+02:00",
-            "artist": "Noisecontrollers",
-            "likes": 2,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1756,
-            "start": "2018-07-28T20:00:00+02:00",
-            "end": "2018-07-28T22:00:00+02:00",
-            "artist": "Alesso",
-            "likes": 2,
-            "stage": {
-                "name": "Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 2273,
-            "start": "2018-07-28T20:00:00+02:00",
-            "end": "2018-07-28T21:00:00+02:00",
-            "artist": "Psyko Punkz",
-            "likes": 2,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1650,
-            "start": "2018-07-28T20:00:00+02:00",
-            "end": "2018-07-28T21:00:00+02:00",
-            "artist": "Nora En Pure",
-            "likes": 2,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1739,
-            "start": "2018-07-28T23:50:00+02:00",
-            "end": "2018-07-29T00:50:00+02:00",
-            "artist": "Yellow Claw",
-            "likes": 2,
-            "stage": {
-                "name": "Barong Family- Youphoria"
-            }
-        },
-        {
-            "id": 1763,
-            "start": "2018-07-28T23:50:00+02:00",
-            "end": "2018-07-29T00:50:00+02:00",
-            "artist": "Above & Beyond",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2144,
-            "start": "2018-07-28T00:00:00+02:00",
-            "end": "2018-07-28T01:00:00+02:00",
-            "artist": "Marlo",
-            "likes": 1,
-            "stage": {
-                "name": "A State of Trance- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1808,
-            "start": "2018-07-28T00:00:00+02:00",
-            "end": "2018-07-28T01:00:00+02:00",
-            "artist": "Jauz",
-            "likes": 1,
-            "stage": {
-                "name": "Netsky and friends- Rose Garden"
-            }
-        },
-        {
-            "id": 1875,
-            "start": "2018-07-28T12:00:00+02:00",
-            "end": "2018-07-28T14:50:00+02:00",
-            "artist": "Erick Morillo",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2445,
-            "start": "2018-07-28T12:30:00+02:00",
-            "end": "2018-07-28T15:30:00+02:00",
-            "artist": "Daoud",
-            "likes": 1,
-            "stage": {
-                "name": "Abracadabra- Leaf by JBL"
-            }
-        },
-        {
-            "id": 2054,
-            "start": "2018-07-28T14:00:00+02:00",
-            "end": "2018-07-28T15:00:00+02:00",
-            "artist": "Sound Rush",
-            "likes": 1,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1893,
-            "start": "2018-07-28T14:50:00+02:00",
-            "end": "2018-07-28T15:50:00+02:00",
-            "artist": "Sigala",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2275,
-            "start": "2018-07-28T15:00:00+02:00",
-            "end": "2018-07-28T16:00:00+02:00",
-            "artist": "Wasted Penguinz",
-            "likes": 1,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1928,
-            "start": "2018-07-28T15:50:00+02:00",
-            "end": "2018-07-28T16:50:00+02:00",
-            "artist": "Angemi",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1915,
-            "start": "2018-07-28T16:50:00+02:00",
-            "end": "2018-07-28T17:50:00+02:00",
-            "artist": "Bassjackers",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1895,
-            "start": "2018-07-28T17:00:00+02:00",
-            "end": "2018-07-28T18:00:00+02:00",
-            "artist": "Otto Knows",
-            "likes": 1,
-            "stage": {
-                "name": "Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 2287,
-            "start": "2018-07-28T17:00:00+02:00",
-            "end": "2018-07-28T18:00:00+02:00",
-            "artist": "EDX",
-            "likes": 1,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 2286,
-            "start": "2018-07-28T19:00:00+02:00",
-            "end": "2018-07-28T20:00:00+02:00",
-            "artist": "Ofenbach",
-            "likes": 1,
-            "stage": {
-                "name": "Lost Frequencies & Friends- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1644,
-            "start": "2018-07-28T20:00:00+02:00",
-            "end": "2018-07-28T22:00:00+02:00",
-            "artist": "Aly & Fila",
-            "likes": 1,
-            "stage": {
-                "name": "Future Sound of Egypt- Tulip"
-            }
-        },
-        {
-            "id": 1721,
-            "start": "2018-07-28T20:00:00+02:00",
-            "end": "2018-07-28T21:30:00+02:00",
-            "artist": "Charlotte de Witte",
-            "likes": 1,
-            "stage": {
-                "name": "KNTXT- Arch"
-            }
-        },
-        {
-            "id": 2272,
-            "start": "2018-07-28T21:00:00+02:00",
-            "end": "2018-07-28T22:00:00+02:00",
-            "artist": "Frequencerz ",
-            "likes": 1,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1925,
-            "start": "2018-07-28T22:00:00+02:00",
-            "end": "2018-07-28T23:30:00+02:00",
-            "artist": "Virtual Self",
-            "likes": 1,
-            "stage": {
-                "name": "Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1821,
-            "start": "2018-07-28T22:00:00+02:00",
-            "end": "2018-07-28T23:00:00+02:00",
-            "artist": "B-Front",
-            "likes": 1,
-            "stage": {
-                "name": "Q-dance- Atmosphere"
-            }
-        },
-        {
-            "id": 1641,
-            "start": "2018-07-28T23:00:00+02:00",
-            "end": "2018-07-29T00:00:00+02:00",
-            "artist": "Ferry Corsten",
-            "likes": 1,
-            "stage": {
-                "name": "Future Sound of Egypt- Tulip"
-            }
-        },
-        {
-            "id": 1767,
-            "start": "2018-07-28T23:30:00+02:00",
-            "end": "2018-07-29T01:00:00+02:00",
-            "artist": "Fatboy Slim",
-            "likes": 1,
-            "stage": {
-                "name": "Freedom Stage by Budweiser"
-            }
-        }
-    ],
-    "29": [
-        {
-            "id": 1557,
-            "start": "2018-07-29T14:50:00+02:00",
-            "end": "2018-07-29T15:50:00+02:00",
-            "artist": "Kungs ",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1920,
-            "start": "2018-07-29T20:00:00+02:00",
-            "end": "2018-07-29T21:00:00+02:00",
-            "artist": "KSHMR",
-            "likes": 4,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1742,
-            "start": "2018-07-29T22:50:00+02:00",
-            "end": "2018-07-29T23:50:00+02:00",
-            "artist": "Martin Garrix",
-            "likes": 4,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1773,
-            "start": "2018-07-29T12:00:00+02:00",
-            "end": "2018-07-29T14:50:00+02:00",
-            "artist": "Markus Schulz",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1753,
-            "start": "2018-07-29T17:00:00+02:00",
-            "end": "2018-07-29T18:00:00+02:00",
-            "artist": "Wildstylez",
-            "likes": 3,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 2305,
-            "start": "2018-07-29T17:00:00+02:00",
-            "end": "2018-07-29T18:00:00+02:00",
-            "artist": "Jay Hardway",
-            "likes": 3,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 1735,
-            "start": "2018-07-29T18:00:00+02:00",
-            "end": "2018-07-29T19:00:00+02:00",
-            "artist": "Coone",
-            "likes": 3,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1814,
-            "start": "2018-07-29T18:50:00+02:00",
-            "end": "2018-07-29T19:50:00+02:00",
-            "artist": "Robin Schulz",
-            "likes": 3,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1791,
-            "start": "2018-07-29T19:00:00+02:00",
-            "end": "2018-07-29T20:00:00+02:00",
-            "artist": "Nicky Romero",
-            "likes": 3,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1881,
-            "start": "2018-07-29T20:00:00+02:00",
-            "end": "2018-07-29T21:00:00+02:00",
-            "artist": "Lucas & Steve",
-            "likes": 3,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 2309,
-            "start": "2018-07-29T12:30:00+02:00",
-            "end": "2018-07-29T14:00:00+02:00",
-            "artist": "LVNDSCAPE",
-            "likes": 2,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 2307,
-            "start": "2018-07-29T15:00:00+02:00",
-            "end": "2018-07-29T16:00:00+02:00",
-            "artist": "Curbi",
-            "likes": 2,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 1883,
-            "start": "2018-07-29T15:50:00+02:00",
-            "end": "2018-07-29T16:50:00+02:00",
-            "artist": "Quintino",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1758,
-            "start": "2018-07-29T16:00:00+02:00",
-            "end": "2018-07-29T17:00:00+02:00",
-            "artist": "Da Tweekaz",
-            "likes": 2,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1890,
-            "start": "2018-07-29T16:50:00+02:00",
-            "end": "2018-07-29T17:50:00+02:00",
-            "artist": "Ummet Ozcan",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2354,
-            "start": "2018-07-29T18:00:00+02:00",
-            "end": "2018-07-29T19:00:00+02:00",
-            "artist": "Bassjackers",
-            "likes": 2,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1901,
-            "start": "2018-07-29T19:00:00+02:00",
-            "end": "2018-07-29T20:00:00+02:00",
-            "artist": "Mike Williams",
-            "likes": 2,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 1807,
-            "start": "2018-07-29T20:50:00+02:00",
-            "end": "2018-07-29T21:50:00+02:00",
-            "artist": "Steve Angello",
-            "likes": 2,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1857,
-            "start": "2018-07-29T21:00:00+02:00",
-            "end": "2018-07-29T22:00:00+02:00",
-            "artist": "Steve Aoki",
-            "likes": 2,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 2299,
-            "start": "2018-07-29T21:15:00+02:00",
-            "end": "2018-07-29T22:15:00+02:00",
-            "artist": "Coone vs Hard Driver",
-            "likes": 2,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1870,
-            "start": "2018-07-29T22:00:00+02:00",
-            "end": "2018-07-29T23:00:00+02:00",
-            "artist": "Blasterjaxx",
-            "likes": 2,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 1888,
-            "start": "2018-07-29T23:00:00+02:00",
-            "end": "2018-07-30T00:00:00+02:00",
-            "artist": "Tujamo",
-            "likes": 2,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 2355,
-            "start": "2018-07-29T23:30:00+02:00",
-            "end": "2018-07-30T00:00:00+02:00",
-            "artist": "3 Are Legend",
-            "likes": 2,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 2308,
-            "start": "2018-07-29T14:00:00+02:00",
-            "end": "2018-07-29T15:00:00+02:00",
-            "artist": "Trobi",
-            "likes": 1,
-            "stage": {
-                "name": "Spinnin- Rose Garden"
-            }
-        },
-        {
-            "id": 2324,
-            "start": "2018-07-29T15:30:00+02:00",
-            "end": "2018-07-29T16:30:00+02:00",
-            "artist": "D-Fence",
-            "likes": 1,
-            "stage": {
-                "name": "Footworxx- Cage"
-            }
-        },
-        {
-            "id": 2470,
-            "start": "2018-07-29T17:50:00+02:00",
-            "end": "2018-07-29T18:50:00+02:00",
-            "artist": "METAFO4R (Firebeatz vs Dubvision)",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 2343,
-            "start": "2018-07-29T18:00:00+02:00",
-            "end": "2018-07-29T19:30:00+02:00",
-            "artist": "Pete Tong",
-            "likes": 1,
-            "stage": {
-                "name": "Potion- Core"
-            }
-        },
-        {
-            "id": 1729,
-            "start": "2018-07-29T19:50:00+02:00",
-            "end": "2018-07-29T20:50:00+02:00",
-            "artist": "Solomun",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1837,
-            "start": "2018-07-29T20:15:00+02:00",
-            "end": "2018-07-29T21:15:00+02:00",
-            "artist": "Zatox",
-            "likes": 1,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1872,
-            "start": "2018-07-29T21:50:00+02:00",
-            "end": "2018-07-29T22:50:00+02:00",
-            "artist": "David Guetta",
-            "likes": 1,
-            "stage": {
-                "name": "Mainstage"
-            }
-        },
-        {
-            "id": 1732,
-            "start": "2018-07-29T22:00:00+02:00",
-            "end": "2018-07-29T23:30:00+02:00",
-            "artist": "Dimitri Vegas & Like Mike",
-            "likes": 1,
-            "stage": {
-                "name": "Smash The House- Organ of Harmony"
-            }
-        },
-        {
-            "id": 1810,
-            "start": "2018-07-29T22:00:00+02:00",
-            "end": "2018-07-29T23:50:00+02:00",
-            "artist": "Joris Voorn",
-            "likes": 1,
-            "stage": {
-                "name": "Ants- Garden of Madness"
-            }
-        },
-        {
-            "id": 1768,
-            "start": "2018-07-29T22:15:00+02:00",
-            "end": "2018-07-29T23:00:00+02:00",
-            "artist": "Gunz for Hire",
-            "likes": 1,
-            "stage": {
-                "name": "Coone and the Gang- Freedom Stage by Budweiser"
-            }
-        },
-        {
-            "id": 1776,
-            "start": "2018-07-29T22:30:00+02:00",
-            "end": "2018-07-30T00:00:00+02:00",
-            "artist": "Nina Kraviz",
-            "likes": 1,
-            "stage": {
-                "name": "Atmosphere"
-            }
-        }
-    ]
+  "27": [
+    {
+      "id": 1796,
+      "start": "2018-07-27T21:50:00+02:00",
+      "end": "2018-07-27T22:50:00+02:00",
+      "artist": "Tiësto",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1275,
+      "start": "2018-07-27T22:50:00+02:00",
+      "end": "2018-07-27T23:50:00+02:00",
+      "artist": "Axwell /\\ Ingrosso",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1723,
+      "start": "2018-07-27T23:50:00+02:00",
+      "end": "2018-07-28T00:50:00+02:00",
+      "artist": "Hardwell",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1272,
+      "start": "2018-07-27T18:30:00+02:00",
+      "end": "2018-07-27T19:30:00+02:00",
+      "artist": "Cosmic Gate",
+      "likes": 3,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1708,
+      "start": "2018-07-27T19:30:00+02:00",
+      "end": "2018-07-27T22:00:00+02:00",
+      "artist": "Armin van Buuren",
+      "likes": 3,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1782,
+      "start": "2018-07-27T20:50:00+02:00",
+      "end": "2018-07-27T21:50:00+02:00",
+      "artist": "W&W",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1816,
+      "start": "2018-07-27T21:30:00+02:00",
+      "end": "2018-07-27T22:30:00+02:00",
+      "artist": "Timmy Trumpet",
+      "likes": 3,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1777,
+      "start": "2018-07-27T22:00:00+02:00",
+      "end": "2018-07-27T23:30:00+02:00",
+      "artist": "Oliver Heldens",
+      "likes": 3,
+      "stage": { "name": "Heldeep- Arch" }
+    },
+    {
+      "id": 1784,
+      "start": "2018-07-27T22:00:00+02:00",
+      "end": "2018-07-27T23:00:00+02:00",
+      "artist": "Andrew Rayel",
+      "likes": 3,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1747,
+      "start": "2018-07-27T12:00:00+02:00",
+      "end": "2018-07-27T14:50:00+02:00",
+      "artist": "Paul Kalkbrenner",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1747,
+      "start": "2018-07-27T12:00:00+02:00",
+      "end": "2018-07-27T14:50:00+02:00",
+      "artist": "Paul Kalkbrenner",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2199,
+      "start": "2018-07-27T14:30:00+02:00",
+      "end": "2018-07-27T15:30:00+02:00",
+      "artist": "Breathe Carolina",
+      "likes": 2,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1938,
+      "start": "2018-07-27T15:30:00+02:00",
+      "end": "2018-07-27T16:30:00+02:00",
+      "artist": "Dannic",
+      "likes": 2,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1829,
+      "start": "2018-07-27T15:50:00+02:00",
+      "end": "2018-07-27T16:50:00+02:00",
+      "artist": "Jonas Blue",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2145,
+      "start": "2018-07-27T16:30:00+02:00",
+      "end": "2018-07-27T17:30:00+02:00",
+      "artist": "David Gravell",
+      "likes": 2,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1855,
+      "start": "2018-07-27T16:50:00+02:00",
+      "end": "2018-07-27T17:50:00+02:00",
+      "artist": "Slushii",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1904,
+      "start": "2018-07-27T17:30:00+02:00",
+      "end": "2018-07-27T18:30:00+02:00",
+      "artist": "Laidback Luke",
+      "likes": 2,
+      "stage": { "name": "Sexy By Nature- Garden of Madness" }
+    },
+    {
+      "id": 1626,
+      "start": "2018-07-27T19:30:00+02:00",
+      "end": "2018-07-27T20:30:00+02:00",
+      "artist": "Kura",
+      "likes": 2,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1780,
+      "start": "2018-07-27T20:30:00+02:00",
+      "end": "2018-07-27T21:30:00+02:00",
+      "artist": "Yves V",
+      "likes": 2,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1803,
+      "start": "2018-07-27T21:30:00+02:00",
+      "end": "2018-07-27T22:30:00+02:00",
+      "artist": "Fedde Le Grand",
+      "likes": 2,
+      "stage": { "name": "Sexy By Nature- Garden of Madness" }
+    },
+    {
+      "id": 1894,
+      "start": "2018-07-27T22:30:00+02:00",
+      "end": "2018-07-27T23:45:00+02:00",
+      "artist": "Sander van Doorn",
+      "likes": 2,
+      "stage": { "name": "Sexy By Nature- Garden of Madness" }
+    },
+    {
+      "id": 2148,
+      "start": "2018-07-27T13:00:00+02:00",
+      "end": "2018-07-27T14:30:00+02:00",
+      "artist": "Estiva",
+      "likes": 1,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 2200,
+      "start": "2018-07-27T13:30:00+02:00",
+      "end": "2018-07-27T14:30:00+02:00",
+      "artist": "BLR",
+      "likes": 1,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 2160,
+      "start": "2018-07-27T13:30:00+02:00",
+      "end": "2018-07-27T14:30:00+02:00",
+      "artist": "Codeko",
+      "likes": 1,
+      "stage": { "name": "Netsky and friends- Rose Garden" }
+    },
+    {
+      "id": 2146,
+      "start": "2018-07-27T15:30:00+02:00",
+      "end": "2018-07-27T16:30:00+02:00",
+      "artist": "Super 8 & Tab",
+      "likes": 1,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1940,
+      "start": "2018-07-27T16:30:00+02:00",
+      "end": "2018-07-27T17:30:00+02:00",
+      "artist": "Florian Picasso",
+      "likes": 1,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 2207,
+      "start": "2018-07-27T16:30:00+02:00",
+      "end": "2018-07-27T17:30:00+02:00",
+      "artist": "Cedric Gervais",
+      "likes": 1,
+      "stage": { "name": "Sexy By Nature- Garden of Madness" }
+    },
+    {
+      "id": 2186,
+      "start": "2018-07-27T17:00:00+02:00",
+      "end": "2018-07-27T18:30:00+02:00",
+      "artist": "Chocolate Puma",
+      "likes": 1,
+      "stage": { "name": "Heldeep- Arch" }
+    },
+    {
+      "id": 1874,
+      "start": "2018-07-27T17:00:00+02:00",
+      "end": "2018-07-27T19:00:00+02:00",
+      "artist": "Dubfire",
+      "likes": 1,
+      "stage": { "name": "Pryda- Atmosphere" }
+    },
+    {
+      "id": 1712,
+      "start": "2018-07-27T17:30:00+02:00",
+      "end": "2018-07-27T18:30:00+02:00",
+      "artist": "Vini Vici",
+      "likes": 1,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1913,
+      "start": "2018-07-27T18:30:00+02:00",
+      "end": "2018-07-27T19:30:00+02:00",
+      "artist": "ALOK",
+      "likes": 1,
+      "stage": { "name": "V Sessions- Youphoria" }
+    },
+    {
+      "id": 1749,
+      "start": "2018-07-27T19:00:00+02:00",
+      "end": "2018-07-27T20:00:00+02:00",
+      "artist": "San Holo",
+      "likes": 1,
+      "stage": { "name": "Netsky and friends- Rose Garden" }
+    },
+    {
+      "id": 1824,
+      "start": "2018-07-27T19:30:00+02:00",
+      "end": "2018-07-27T21:00:00+02:00",
+      "artist": "Disciples",
+      "likes": 1,
+      "stage": { "name": "Heldeep- Arch" }
+    },
+    {
+      "id": 2165,
+      "start": "2018-07-27T19:30:00+02:00",
+      "end": "2018-07-27T21:00:00+02:00",
+      "artist": "Ruthless",
+      "likes": 1,
+      "stage": {
+        "name":
+          "Pussy Lounge- Amicorum Spectaculum presents: Theatre Formidable"
+      }
+    },
+    {
+      "id": 1923,
+      "start": "2018-07-27T20:00:00+02:00",
+      "end": "2018-07-27T21:30:00+02:00",
+      "artist": "Ookay",
+      "likes": 1,
+      "stage": { "name": "Netsky and friends- Rose Garden" }
+    },
+    {
+      "id": 1727,
+      "start": "2018-07-27T22:30:00+02:00",
+      "end": "2018-07-28T00:00:00+02:00",
+      "artist": "Netsky",
+      "likes": 1,
+      "stage": { "name": "Netsky and friends- Rose Garden" }
+    },
+    {
+      "id": 2178,
+      "start": "2018-07-27T23:00:00+02:00",
+      "end": "2018-07-28T01:00:00+02:00",
+      "artist": "Oscar Mulero",
+      "likes": 1,
+      "stage": { "name": "Onraad- Cage" }
+    },
+    {
+      "id": 1711,
+      "start": "2018-07-27T23:00:00+02:00",
+      "end": "2018-07-28T01:00:00+02:00",
+      "artist": "Eric Prydz",
+      "likes": 1,
+      "stage": { "name": "Pryda- Atmosphere" }
+    },
+    {
+      "id": 1623,
+      "start": "2018-07-27T23:00:00+02:00",
+      "end": "2018-07-28T00:00:00+02:00",
+      "artist": "Ben Nicky",
+      "likes": 1,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1907,
+      "start": "2018-07-27T23:30:00+02:00",
+      "end": "2018-07-28T01:00:00+02:00",
+      "artist": "Duke Dumont",
+      "likes": 1,
+      "stage": { "name": "Heldeep- Arch" }
+    }
+  ],
+  "28": [
+    {
+      "id": 1801,
+      "start": "2018-07-28T19:50:00+02:00",
+      "end": "2018-07-28T20:50:00+02:00",
+      "artist": "Don Diablo",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1647,
+      "start": "2018-07-28T21:10:00+02:00",
+      "end": "2018-07-28T22:25:00+02:00",
+      "artist": "Lost Frequencies",
+      "likes": 4,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 1524,
+      "start": "2018-07-28T18:00:00+02:00",
+      "end": "2018-07-28T19:00:00+02:00",
+      "artist": "Zonderling",
+      "likes": 3,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 1849,
+      "start": "2018-07-28T18:50:00+02:00",
+      "end": "2018-07-28T19:50:00+02:00",
+      "artist": "Nervo",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2394,
+      "start": "2018-07-28T19:00:00+02:00",
+      "end": "2018-07-28T20:00:00+02:00",
+      "artist": "Sebastian Ingrosso",
+      "likes": 3,
+      "stage": { "name": "Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1866,
+      "start": "2018-07-28T20:50:00+02:00",
+      "end": "2018-07-28T21:50:00+02:00",
+      "artist": "Afrojack",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1755,
+      "start": "2018-07-28T21:50:00+02:00",
+      "end": "2018-07-28T22:50:00+02:00",
+      "artist": "Armin van Buuren",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1320,
+      "start": "2018-07-28T22:50:00+02:00",
+      "end": "2018-07-28T23:50:00+02:00",
+      "artist": "Dimitri Vegas & Like Mike",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2288,
+      "start": "2018-07-28T16:00:00+02:00",
+      "end": "2018-07-28T17:00:00+02:00",
+      "artist": "Throttle",
+      "likes": 2,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 2274,
+      "start": "2018-07-28T17:00:00+02:00",
+      "end": "2018-07-28T18:00:00+02:00",
+      "artist": "Bass Modulators",
+      "likes": 2,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1930,
+      "start": "2018-07-28T18:00:00+02:00",
+      "end": "2018-07-28T19:00:00+02:00",
+      "artist": "Code Black",
+      "likes": 2,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1934,
+      "start": "2018-07-28T19:00:00+02:00",
+      "end": "2018-07-28T20:00:00+02:00",
+      "artist": "Noisecontrollers",
+      "likes": 2,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1650,
+      "start": "2018-07-28T20:00:00+02:00",
+      "end": "2018-07-28T21:00:00+02:00",
+      "artist": "Nora En Pure",
+      "likes": 2,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 1756,
+      "start": "2018-07-28T20:00:00+02:00",
+      "end": "2018-07-28T22:00:00+02:00",
+      "artist": "Alesso",
+      "likes": 2,
+      "stage": { "name": "Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 2273,
+      "start": "2018-07-28T20:00:00+02:00",
+      "end": "2018-07-28T21:00:00+02:00",
+      "artist": "Psyko Punkz",
+      "likes": 2,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1763,
+      "start": "2018-07-28T23:50:00+02:00",
+      "end": "2018-07-29T00:50:00+02:00",
+      "artist": "Above & Beyond",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1739,
+      "start": "2018-07-28T23:50:00+02:00",
+      "end": "2018-07-29T00:50:00+02:00",
+      "artist": "Yellow Claw",
+      "likes": 2,
+      "stage": { "name": "Barong Family- Youphoria" }
+    },
+    {
+      "id": 2144,
+      "start": "2018-07-28T00:00:00+02:00",
+      "end": "2018-07-28T01:00:00+02:00",
+      "artist": "Marlo",
+      "likes": 1,
+      "stage": { "name": "A State of Trance- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1808,
+      "start": "2018-07-28T00:00:00+02:00",
+      "end": "2018-07-28T01:00:00+02:00",
+      "artist": "Jauz",
+      "likes": 1,
+      "stage": { "name": "Netsky and friends- Rose Garden" }
+    },
+    {
+      "id": 1875,
+      "start": "2018-07-28T12:00:00+02:00",
+      "end": "2018-07-28T14:50:00+02:00",
+      "artist": "Erick Morillo",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2445,
+      "start": "2018-07-28T12:30:00+02:00",
+      "end": "2018-07-28T15:30:00+02:00",
+      "artist": "Daoud",
+      "likes": 1,
+      "stage": { "name": "Abracadabra- Leaf by JBL" }
+    },
+    {
+      "id": 2054,
+      "start": "2018-07-28T14:00:00+02:00",
+      "end": "2018-07-28T15:00:00+02:00",
+      "artist": "Sound Rush",
+      "likes": 1,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1893,
+      "start": "2018-07-28T14:50:00+02:00",
+      "end": "2018-07-28T15:50:00+02:00",
+      "artist": "Sigala",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2275,
+      "start": "2018-07-28T15:00:00+02:00",
+      "end": "2018-07-28T16:00:00+02:00",
+      "artist": "Wasted Penguinz",
+      "likes": 1,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1928,
+      "start": "2018-07-28T15:50:00+02:00",
+      "end": "2018-07-28T16:50:00+02:00",
+      "artist": "Angemi",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1915,
+      "start": "2018-07-28T16:50:00+02:00",
+      "end": "2018-07-28T17:50:00+02:00",
+      "artist": "Bassjackers",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2287,
+      "start": "2018-07-28T17:00:00+02:00",
+      "end": "2018-07-28T18:00:00+02:00",
+      "artist": "EDX",
+      "likes": 1,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 1895,
+      "start": "2018-07-28T17:00:00+02:00",
+      "end": "2018-07-28T18:00:00+02:00",
+      "artist": "Otto Knows",
+      "likes": 1,
+      "stage": { "name": "Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 2286,
+      "start": "2018-07-28T19:00:00+02:00",
+      "end": "2018-07-28T20:00:00+02:00",
+      "artist": "Ofenbach",
+      "likes": 1,
+      "stage": { "name": "Lost Frequencies & Friends- Organ of Harmony" }
+    },
+    {
+      "id": 1721,
+      "start": "2018-07-28T20:00:00+02:00",
+      "end": "2018-07-28T21:30:00+02:00",
+      "artist": "Charlotte de Witte",
+      "likes": 1,
+      "stage": { "name": "KNTXT- Arch" }
+    },
+    {
+      "id": 1644,
+      "start": "2018-07-28T20:00:00+02:00",
+      "end": "2018-07-28T22:00:00+02:00",
+      "artist": "Aly & Fila",
+      "likes": 1,
+      "stage": { "name": "Future Sound of Egypt- Tulip" }
+    },
+    {
+      "id": 2272,
+      "start": "2018-07-28T21:00:00+02:00",
+      "end": "2018-07-28T22:00:00+02:00",
+      "artist": "Frequencerz ",
+      "likes": 1,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1821,
+      "start": "2018-07-28T22:00:00+02:00",
+      "end": "2018-07-28T23:00:00+02:00",
+      "artist": "B-Front",
+      "likes": 1,
+      "stage": { "name": "Q-dance- Atmosphere" }
+    },
+    {
+      "id": 1925,
+      "start": "2018-07-28T22:00:00+02:00",
+      "end": "2018-07-28T23:30:00+02:00",
+      "artist": "Virtual Self",
+      "likes": 1,
+      "stage": { "name": "Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1641,
+      "start": "2018-07-28T23:00:00+02:00",
+      "end": "2018-07-29T00:00:00+02:00",
+      "artist": "Ferry Corsten",
+      "likes": 1,
+      "stage": { "name": "Future Sound of Egypt- Tulip" }
+    },
+    {
+      "id": 1767,
+      "start": "2018-07-28T23:30:00+02:00",
+      "end": "2018-07-29T01:00:00+02:00",
+      "artist": "Fatboy Slim",
+      "likes": 1,
+      "stage": { "name": "Freedom Stage by Budweiser" }
+    }
+  ],
+  "29": [
+    {
+      "id": 1557,
+      "start": "2018-07-29T14:50:00+02:00",
+      "end": "2018-07-29T15:50:00+02:00",
+      "artist": "Kungs ",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1920,
+      "start": "2018-07-29T20:00:00+02:00",
+      "end": "2018-07-29T21:00:00+02:00",
+      "artist": "KSHMR",
+      "likes": 4,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 1742,
+      "start": "2018-07-29T22:50:00+02:00",
+      "end": "2018-07-29T23:50:00+02:00",
+      "artist": "Martin Garrix",
+      "likes": 4,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1773,
+      "start": "2018-07-29T12:00:00+02:00",
+      "end": "2018-07-29T14:50:00+02:00",
+      "artist": "Markus Schulz",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2305,
+      "start": "2018-07-29T17:00:00+02:00",
+      "end": "2018-07-29T18:00:00+02:00",
+      "artist": "Jay Hardway",
+      "likes": 3,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 1753,
+      "start": "2018-07-29T17:00:00+02:00",
+      "end": "2018-07-29T18:00:00+02:00",
+      "artist": "Wildstylez",
+      "likes": 3,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1735,
+      "start": "2018-07-29T18:00:00+02:00",
+      "end": "2018-07-29T19:00:00+02:00",
+      "artist": "Coone",
+      "likes": 3,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1814,
+      "start": "2018-07-29T18:50:00+02:00",
+      "end": "2018-07-29T19:50:00+02:00",
+      "artist": "Robin Schulz",
+      "likes": 3,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1791,
+      "start": "2018-07-29T19:00:00+02:00",
+      "end": "2018-07-29T20:00:00+02:00",
+      "artist": "Nicky Romero",
+      "likes": 3,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 1881,
+      "start": "2018-07-29T20:00:00+02:00",
+      "end": "2018-07-29T21:00:00+02:00",
+      "artist": "Lucas & Steve",
+      "likes": 3,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 2309,
+      "start": "2018-07-29T12:30:00+02:00",
+      "end": "2018-07-29T14:00:00+02:00",
+      "artist": "LVNDSCAPE",
+      "likes": 2,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 2307,
+      "start": "2018-07-29T15:00:00+02:00",
+      "end": "2018-07-29T16:00:00+02:00",
+      "artist": "Curbi",
+      "likes": 2,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 1883,
+      "start": "2018-07-29T15:50:00+02:00",
+      "end": "2018-07-29T16:50:00+02:00",
+      "artist": "Quintino",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1758,
+      "start": "2018-07-29T16:00:00+02:00",
+      "end": "2018-07-29T17:00:00+02:00",
+      "artist": "Da Tweekaz",
+      "likes": 2,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1890,
+      "start": "2018-07-29T16:50:00+02:00",
+      "end": "2018-07-29T17:50:00+02:00",
+      "artist": "Ummet Ozcan",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2354,
+      "start": "2018-07-29T18:00:00+02:00",
+      "end": "2018-07-29T19:00:00+02:00",
+      "artist": "Bassjackers",
+      "likes": 2,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 1901,
+      "start": "2018-07-29T19:00:00+02:00",
+      "end": "2018-07-29T20:00:00+02:00",
+      "artist": "Mike Williams",
+      "likes": 2,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 1807,
+      "start": "2018-07-29T20:50:00+02:00",
+      "end": "2018-07-29T21:50:00+02:00",
+      "artist": "Steve Angello",
+      "likes": 2,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1857,
+      "start": "2018-07-29T21:00:00+02:00",
+      "end": "2018-07-29T22:00:00+02:00",
+      "artist": "Steve Aoki",
+      "likes": 2,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 2299,
+      "start": "2018-07-29T21:15:00+02:00",
+      "end": "2018-07-29T22:15:00+02:00",
+      "artist": "Coone vs Hard Driver",
+      "likes": 2,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1870,
+      "start": "2018-07-29T22:00:00+02:00",
+      "end": "2018-07-29T23:00:00+02:00",
+      "artist": "Blasterjaxx",
+      "likes": 2,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 1888,
+      "start": "2018-07-29T23:00:00+02:00",
+      "end": "2018-07-30T00:00:00+02:00",
+      "artist": "Tujamo",
+      "likes": 2,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 2355,
+      "start": "2018-07-29T23:30:00+02:00",
+      "end": "2018-07-30T00:00:00+02:00",
+      "artist": "3 Are Legend",
+      "likes": 2,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 2308,
+      "start": "2018-07-29T14:00:00+02:00",
+      "end": "2018-07-29T15:00:00+02:00",
+      "artist": "Trobi",
+      "likes": 1,
+      "stage": { "name": "Spinnin- Rose Garden" }
+    },
+    {
+      "id": 2324,
+      "start": "2018-07-29T15:30:00+02:00",
+      "end": "2018-07-29T16:30:00+02:00",
+      "artist": "D-Fence",
+      "likes": 1,
+      "stage": { "name": "Footworxx- Cage" }
+    },
+    {
+      "id": 2470,
+      "start": "2018-07-29T17:50:00+02:00",
+      "end": "2018-07-29T18:50:00+02:00",
+      "artist": "METAFO4R (Firebeatz vs Dubvision)",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 2343,
+      "start": "2018-07-29T18:00:00+02:00",
+      "end": "2018-07-29T19:30:00+02:00",
+      "artist": "Pete Tong",
+      "likes": 1,
+      "stage": { "name": "Potion- Core" }
+    },
+    {
+      "id": 1729,
+      "start": "2018-07-29T19:50:00+02:00",
+      "end": "2018-07-29T20:50:00+02:00",
+      "artist": "Solomun",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1837,
+      "start": "2018-07-29T20:15:00+02:00",
+      "end": "2018-07-29T21:15:00+02:00",
+      "artist": "Zatox",
+      "likes": 1,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1872,
+      "start": "2018-07-29T21:50:00+02:00",
+      "end": "2018-07-29T22:50:00+02:00",
+      "artist": "David Guetta",
+      "likes": 1,
+      "stage": { "name": "Mainstage" }
+    },
+    {
+      "id": 1732,
+      "start": "2018-07-29T22:00:00+02:00",
+      "end": "2018-07-29T23:30:00+02:00",
+      "artist": "Dimitri Vegas & Like Mike",
+      "likes": 1,
+      "stage": { "name": "Smash The House- Organ of Harmony" }
+    },
+    {
+      "id": 1810,
+      "start": "2018-07-29T22:00:00+02:00",
+      "end": "2018-07-29T23:50:00+02:00",
+      "artist": "Joris Voorn",
+      "likes": 1,
+      "stage": { "name": "Ants- Garden of Madness" }
+    },
+    {
+      "id": 1768,
+      "start": "2018-07-29T22:15:00+02:00",
+      "end": "2018-07-29T23:00:00+02:00",
+      "artist": "Gunz for Hire",
+      "likes": 1,
+      "stage": { "name": "Coone and the Gang- Freedom Stage by Budweiser" }
+    },
+    {
+      "id": 1776,
+      "start": "2018-07-29T22:30:00+02:00",
+      "end": "2018-07-30T00:00:00+02:00",
+      "artist": "Nina Kraviz",
+      "likes": 1,
+      "stage": { "name": "Atmosphere" }
+    }
+  ]
 }
